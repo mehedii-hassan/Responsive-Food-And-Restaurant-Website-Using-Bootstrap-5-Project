@@ -230,7 +230,7 @@ Explore our food section Design
   border-radius: 0  0 15px 15px;
    
 }
-.card-fooditem{
+.card-fooditem .card-body{
   border: 1px solid rgb(223, 218, 218);
 
 }
