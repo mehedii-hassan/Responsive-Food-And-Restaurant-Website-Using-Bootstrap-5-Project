@@ -249,32 +249,27 @@ Explore our food section Design
  testimonial section Design
 ==========================================
 */
-.text h2{
+ .text h2{
   color: var(--white-color);
 }
 .testimonial-section{
   background: var(--secondry-color);
 }
 .testimonial-section .carousel-inner img{
-  max-width: 5rem;
+  /* max-width: 10rem; */
   border-radius: 50%;
   padding:0.3125rem;
+  width: 200px;
 }
 /* carousel design */ 
 .testimonial-section .carousel-item{
-  padding:12rem 3.125rem;
+  padding:5rem 3.125rem;
   margin-top: 3rem;
   background-color:var(--black-color);
   border-radius: 0.9375rem;
   text-align: center;
 }
-.testimonial-section .carousel-caption p{
-  font-size: 1.125rem;
-  line-height: 1.5rem;
-  font-weight: 300;
-  color:var(--white-color);
-  padding:0 11% 0.625rem;
-}
+ 
 .testimonial-section .carousel-indicators button{
   width:15px;
   height:15px;
