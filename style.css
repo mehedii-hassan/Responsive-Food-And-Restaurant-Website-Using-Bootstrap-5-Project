@@ -269,6 +269,13 @@ Explore our food section Design
   border-radius: 0.9375rem;
   text-align: center;
 }
+.testimonial-section  p{
+  font-size: 1.125rem;
+  line-height: 1.5625rem;
+  font-weight: 300;
+  color:var(--white-color);
+  padding:0 11% 0.625rem;
+}
  
 .testimonial-section .carousel-indicators button{
   width:15px;
